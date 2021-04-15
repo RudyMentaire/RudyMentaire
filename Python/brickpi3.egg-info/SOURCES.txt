@@ -1,0 +1,7 @@
+brickpi3.py
+setup.py
+brickpi3.egg-info/PKG-INFO
+brickpi3.egg-info/SOURCES.txt
+brickpi3.egg-info/dependency_links.txt
+brickpi3.egg-info/requires.txt
+brickpi3.egg-info/top_level.txt
